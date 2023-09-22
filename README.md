@@ -1,6 +1,8 @@
 # Computational Intelligence and Deep Learnig Project
 ## Emotion detection from images
 
+![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
 ## Development Environment
 
 This project was developed using the Google Colab environment for ease of sharing and collaboration. Jupyter notebooks are available on Google Colab and can be run directly in the cloud.
